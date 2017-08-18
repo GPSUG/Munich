@@ -1,0 +1,13 @@
+https://blogs.msdn.microsoft.com/daviddasneves/
+
+https://blogs.msdn.microsoft.com/daviddasneves/2017/05/25/powershell-security-at-enterprise-customers/
+
+https://blogs.msdn.microsoft.com/daviddasneves/2017/07/14/powershell-communities-germany/
+
+https://blogs.msdn.microsoft.com/daviddasneves/2017/08/06/how-to-become-a-powershell-pro-v2/
+
+http://powerintheshell.com/
+
+https://github.com/russelltomkins/Project-Sauron
+
+https://github.com/Invoke-IR/Uproot
