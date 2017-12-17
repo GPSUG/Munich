@@ -1,0 +1,35 @@
+# Open PowerShell/VSCode/PowerShell ISE as Admin
+
+# The server names here are from the demo in the session. 
+# You need to change them accordingly, otherwise they'll fail
+
+
+# Let's install dbatools
+Install-Module dbatools -Force
+
+# That was easy!!
+
+# So what do we have to choose from?
+Get-Command -Module dbatools
+
+# That was too much!
+# How about we reduce that list a bit
+Get-Command -Module dbatools -Name Find*
+
+# Lets list a job on a SQL Server instance
+Find-DbaAgentJob -SqlInstance WIN2016\SQL2012 -Name *AJob*
+
+#Lets list all backup jobs
+Find-DbaAgentJob -SqlInstance WIN2016\SQL2012 -Name *backup*
+
+#That sucks to read.....
+Find-DbaAgentJob -SqlInstance WIN2016\SQL2012 -Name *AJob* | Out-GridView
+
+# Now lets look at best practices.....
+Test-DbaPowerPlan -ComputerName WIN2016
+
+# Power Saver is bad, we want max performance!
+Set-DbaPowerPlan -ComputerName WIN2016 -PowerPlan 'High Performance'
+
+# Now let's do a mega move!
+Start-DbaMigration -Source WIN2016\SQL2012 -Destination WIN2016\SQL2017 -BackupRestore -NetworkShare \\win2016\share\Migration
