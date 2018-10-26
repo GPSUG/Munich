@@ -1,5 +1,26 @@
 # Munich
+
 Material regarding to #region Munich
+
+## Slack
+
+Please join our Slack Channel!
+[#Slack](https://powershell-ug.com/wp-login.php?action=slack-invitation)
+
+## Usergroup
+
+- [2018-09-25](https://www.meetup.com/German-PowerShell-Usergroup/events/254444660/)
+- [2018-10-25](https://www.meetup.com/German-PowerShell-Usergroup/events/254472804/)
+
+
+| Session Title  | Speaker | Slides | Demo Code | Date |
+| ------------- | ------------- | ------------- | ------------- | ------------- |
+| [Reverse engineering of a REST API using Chrome and PowerShell]() | [Fabian Bader](https://twitter.com/fabian_bader/) | [Slides]() | - | 2018-10-25 |
+| [How we made Configurable Pester Tests for SQL Server]() |  [Rob Sewell](https://sqldbawithAbeard.com) | [Slides]() | - | 2018-10-25 |
+| [PowerShell Cross Platform Remoting](https://github.com/GPSUG/Munich/tree/master/Usergroup/2018-09-25/PowerShell%20Cross%20Platform%20Remoting%20-%20Fabian%20Bader) | [Fabian Bader](https://twitter.com/fabian_bader/) | [Slides]() | - | 2018-09-25 |
+| [Lessons learned monitoring SQL through Excel]() |  [Mark Warneke](https://twitter.com/mark_mit_k_) | [Slides]() | - | 2018-09-25 |
+
+## 2017 PowerShell Saturday
 
 | Session Title  | Speaker | Slides | Demo Code | Date |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
