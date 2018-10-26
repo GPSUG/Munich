@@ -15,7 +15,7 @@ Please join our Slack Channel!
 
 | Session Title  | Speaker | Slides | Demo Code | Date |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
-| [Reverse engineering of a REST API using Chrome and PowerShell] | [Fabian Bader](https://twitter.com/fabian_bader/) | - | - | 2018-10-25 |
+| [Reverse engineering of a REST API using Chrome and PowerShell](https://github.com/GPSUG/Munich/tree/master/Usergroup/2018-10-25/Reverse_engineering_REST_API.md) | [Fabian Bader](https://twitter.com/fabian_bader/) | - | - | 2018-10-25 |
 | [How we made Configurable Pester Tests for SQL Server](https://github.com/GPSUG/Munich/tree/master/Usergroup/2018-10-25/How%20We%20Made%20Configurable%20Tests.pdf) |  [Rob Sewell](https://sqldbawithAbeard.com) | [Slides](https://github.com/GPSUG/Munich/tree/master/Usergroup/2018-10-25/How%20We%20Made%20Configurable%20Tests.pdf) | - | 2018-10-25 |
 | [Cloud Automation 101](https://markwarneke.me/Cloud-Automation-101) | [Mark Warneke](https://twitter.com/mark_mit_k_/) | - | - | 2018-10-25 |
 | [PowerShell Cross Platform Remoting](https://github.com/GPSUG/Munich/tree/master/Usergroup/2018-09-25/PowerShell%20Cross%20Platform%20Remoting%20-%20Fabian%20Bader) | [Fabian Bader](https://twitter.com/fabian_bader/) | [Slides](https://github.com/GPSUG/Munich/tree/master/Usergroup/2018-09-25/PowerShell%20Cross%20Platform%20Remoting%20-%20Fabian%20Bader/PowerShell%20Cross%20/Platform%20Remoting.pdf) | [Demo Code](https://github.com/GPSUG/Munich/tree/master/Usergroup/2018-09-25/PowerShell%20Cross%20Platform%20Remoting%20-%20Fabian%20Bader/) | 2018-09-25 |
