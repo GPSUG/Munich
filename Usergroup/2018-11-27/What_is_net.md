@@ -13,9 +13,10 @@ This presentation walks through the basics of what .NET is & what you can build 
 ```PowerShell
 $module = 'testmodule'
 mkdir $module
+cd $module
 dotnet new -i Microsoft.PowerShell.Standard.Module.Template
 dotnet new psmodule
 dotnet build
-Import-Module "bin\Debug\netstandard2.0\$module.dll"
+Import-Module ".\bin\Debug\netstandard2.0\$module.dll"
 Get-Module $module
 ```
