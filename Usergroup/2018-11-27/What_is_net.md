@@ -10,7 +10,7 @@ This presentation walks through the basics of what .NET is & what you can build 
 ## Creat .NET PowerShell Module
 
 
-```
+```PowerShell
 $module = 'testmodule'
 mkdir $module
 dotnet new -i Microsoft.PowerShell.Standard.Module.Template
