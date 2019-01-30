@@ -1,0 +1,6 @@
+C:\Users\HOESSERICHCH\Hirschvogel Holding GmbH\OneDrive - Hirschvogel Holding GmbH\Data\GPSUG_Sessions\PSLoveC#\Code\SimpleAuthenticator\SimpleAuthenticator\bin\Debug\SimpleAuthenticator.dll
+C:\Users\HOESSERICHCH\Hirschvogel Holding GmbH\OneDrive - Hirschvogel Holding GmbH\Data\GPSUG_Sessions\PSLoveC#\Code\SimpleAuthenticator\SimpleAuthenticator\bin\Debug\SimpleAuthenticator.pdb
+C:\Users\HOESSERICHCH\Hirschvogel Holding GmbH\OneDrive - Hirschvogel Holding GmbH\Data\GPSUG_Sessions\PSLoveC#\Code\SimpleAuthenticator\SimpleAuthenticator\obj\Debug\SimpleAuthenticator.csprojAssemblyReference.cache
+C:\Users\HOESSERICHCH\Hirschvogel Holding GmbH\OneDrive - Hirschvogel Holding GmbH\Data\GPSUG_Sessions\PSLoveC#\Code\SimpleAuthenticator\SimpleAuthenticator\obj\Debug\SimpleAuthenticator.csproj.CoreCompileInputs.cache
+C:\Users\HOESSERICHCH\Hirschvogel Holding GmbH\OneDrive - Hirschvogel Holding GmbH\Data\GPSUG_Sessions\PSLoveC#\Code\SimpleAuthenticator\SimpleAuthenticator\obj\Debug\SimpleAuthenticator.dll
+C:\Users\HOESSERICHCH\Hirschvogel Holding GmbH\OneDrive - Hirschvogel Holding GmbH\Data\GPSUG_Sessions\PSLoveC#\Code\SimpleAuthenticator\SimpleAuthenticator\obj\Debug\SimpleAuthenticator.pdb
