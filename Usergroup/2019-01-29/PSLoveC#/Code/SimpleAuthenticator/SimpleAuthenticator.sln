@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.106
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleAuthenticator", "SimpleAuthenticator\SimpleAuthenticator.csproj", "{852604A0-CD70-457B-ADC8-77AA0E760208}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GetCode", "GetCode\GetCode.csproj", "{99AEF18A-7376-42BD-8BAE-B1F7878AF5BE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{852604A0-CD70-457B-ADC8-77AA0E760208}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{852604A0-CD70-457B-ADC8-77AA0E760208}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{852604A0-CD70-457B-ADC8-77AA0E760208}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{852604A0-CD70-457B-ADC8-77AA0E760208}.Release|Any CPU.Build.0 = Release|Any CPU
+		{99AEF18A-7376-42BD-8BAE-B1F7878AF5BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99AEF18A-7376-42BD-8BAE-B1F7878AF5BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99AEF18A-7376-42BD-8BAE-B1F7878AF5BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99AEF18A-7376-42BD-8BAE-B1F7878AF5BE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D9EF259A-DFF3-4295-A4C1-D7FC37160217}
+	EndGlobalSection
+EndGlobal

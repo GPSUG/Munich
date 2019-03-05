@@ -1,0 +1,120 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETFramework,Version=v4.5.2": {
+      "System.Management.Automation.dll/10.0.10586": {
+        "type": "package",
+        "compile": {
+          "lib/net40/System.Management.Automation.dll": {}
+        },
+        "runtime": {
+          "lib/net40/System.Management.Automation.dll": {}
+        }
+      }
+    },
+    ".NETFramework,Version=v4.5.2/win": {
+      "System.Management.Automation.dll/10.0.10586": {
+        "type": "package",
+        "compile": {
+          "lib/net40/System.Management.Automation.dll": {}
+        },
+        "runtime": {
+          "lib/net40/System.Management.Automation.dll": {}
+        }
+      }
+    },
+    ".NETFramework,Version=v4.5.2/win-x64": {
+      "System.Management.Automation.dll/10.0.10586": {
+        "type": "package",
+        "compile": {
+          "lib/net40/System.Management.Automation.dll": {}
+        },
+        "runtime": {
+          "lib/net40/System.Management.Automation.dll": {}
+        }
+      }
+    },
+    ".NETFramework,Version=v4.5.2/win-x86": {
+      "System.Management.Automation.dll/10.0.10586": {
+        "type": "package",
+        "compile": {
+          "lib/net40/System.Management.Automation.dll": {}
+        },
+        "runtime": {
+          "lib/net40/System.Management.Automation.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "System.Management.Automation.dll/10.0.10586": {
+      "sha512": "CebYNhHY+5q++OUM+nP+ibdSYcs3gIcRlpJ6w1WLugZDvM0R3AvdvoVDkLtdCEKoEl8TwlR4fHsz1qK7DrMANA==",
+      "type": "package",
+      "path": "system.management.automation.dll/10.0.10586",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/net40/System.Management.Automation.dll",
+        "system.management.automation.dll.10.0.10586.nupkg.sha512",
+        "system.management.automation.dll.nuspec"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETFramework,Version=v4.5.2": [
+      "System.Management.Automation.dll >= 10.0.10586"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\HOESSERICHCH\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\HOESSERICHCH\\Hirschvogel Holding GmbH\\OneDrive - Hirschvogel Holding GmbH\\Data\\GPSUG_Sessions\\PSLoveC#\\Code\\Powershell_Host\\Powershell_Host\\Powershell_Host.csproj",
+      "projectName": "Powershell_Host",
+      "projectPath": "C:\\Users\\HOESSERICHCH\\Hirschvogel Holding GmbH\\OneDrive - Hirschvogel Holding GmbH\\Data\\GPSUG_Sessions\\PSLoveC#\\Code\\Powershell_Host\\Powershell_Host\\Powershell_Host.csproj",
+      "packagesPath": "C:\\Users\\HOESSERICHCH\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\HOESSERICHCH\\Hirschvogel Holding GmbH\\OneDrive - Hirschvogel Holding GmbH\\Data\\GPSUG_Sessions\\PSLoveC#\\Code\\Powershell_Host\\Powershell_Host\\obj\\",
+      "projectStyle": "PackageReference",
+      "skipContentFileWrite": true,
+      "configFilePaths": [
+        "C:\\Users\\HOESSERICHCH\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net452"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net452": {
+          "projectReferences": {}
+        }
+      }
+    },
+    "frameworks": {
+      "net452": {
+        "dependencies": {
+          "System.Management.Automation.dll": {
+            "target": "Package",
+            "version": "[10.0.10586, )"
+          }
+        }
+      }
+    },
+    "runtimes": {
+      "win": {
+        "#import": []
+      },
+      "win-x64": {
+        "#import": []
+      },
+      "win-x86": {
+        "#import": []
+      }
+    }
+  }
+}

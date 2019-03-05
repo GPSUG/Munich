@@ -1,0 +1,18 @@
+D:\Dev-Projekts\cs\Powershell_Host\Powershell_Host\bin\Debug\Powershell_Host.exe.config
+D:\Dev-Projekts\cs\Powershell_Host\Powershell_Host\bin\Debug\Powershell_Host.exe
+D:\Dev-Projekts\cs\Powershell_Host\Powershell_Host\bin\Debug\Powershell_Host.pdb
+D:\Dev-Projekts\cs\Powershell_Host\Powershell_Host\bin\Debug\System.Management.Automation.dll
+D:\Dev-Projekts\cs\Powershell_Host\Powershell_Host\obj\Debug\Powershell_Host.csprojAssemblyReference.cache
+D:\Dev-Projekts\cs\Powershell_Host\Powershell_Host\obj\Debug\Powershell_Host.csproj.CoreCompileInputs.cache
+D:\Dev-Projekts\cs\Powershell_Host\Powershell_Host\obj\Debug\Powershell_Host.csproj.CopyComplete
+D:\Dev-Projekts\cs\Powershell_Host\Powershell_Host\obj\Debug\Powershell_Host.exe
+D:\Dev-Projekts\cs\Powershell_Host\Powershell_Host\obj\Debug\Powershell_Host.pdb
+C:\Users\HOESSERICHCH\Hirschvogel Holding GmbH\OneDrive - Hirschvogel Holding GmbH\Data\GPSUG_Sessions\PSLoveC#\Code\Powershell_Host\Powershell_Host\bin\Debug\Powershell_Host.exe.config
+C:\Users\HOESSERICHCH\Hirschvogel Holding GmbH\OneDrive - Hirschvogel Holding GmbH\Data\GPSUG_Sessions\PSLoveC#\Code\Powershell_Host\Powershell_Host\bin\Debug\Powershell_Host.exe
+C:\Users\HOESSERICHCH\Hirschvogel Holding GmbH\OneDrive - Hirschvogel Holding GmbH\Data\GPSUG_Sessions\PSLoveC#\Code\Powershell_Host\Powershell_Host\bin\Debug\Powershell_Host.pdb
+C:\Users\HOESSERICHCH\Hirschvogel Holding GmbH\OneDrive - Hirschvogel Holding GmbH\Data\GPSUG_Sessions\PSLoveC#\Code\Powershell_Host\Powershell_Host\bin\Debug\System.Management.Automation.dll
+C:\Users\HOESSERICHCH\Hirschvogel Holding GmbH\OneDrive - Hirschvogel Holding GmbH\Data\GPSUG_Sessions\PSLoveC#\Code\Powershell_Host\Powershell_Host\obj\Debug\Powershell_Host.csprojAssemblyReference.cache
+C:\Users\HOESSERICHCH\Hirschvogel Holding GmbH\OneDrive - Hirschvogel Holding GmbH\Data\GPSUG_Sessions\PSLoveC#\Code\Powershell_Host\Powershell_Host\obj\Debug\Powershell_Host.csproj.CoreCompileInputs.cache
+C:\Users\HOESSERICHCH\Hirschvogel Holding GmbH\OneDrive - Hirschvogel Holding GmbH\Data\GPSUG_Sessions\PSLoveC#\Code\Powershell_Host\Powershell_Host\obj\Debug\Powershell_Host.csproj.CopyComplete
+C:\Users\HOESSERICHCH\Hirschvogel Holding GmbH\OneDrive - Hirschvogel Holding GmbH\Data\GPSUG_Sessions\PSLoveC#\Code\Powershell_Host\Powershell_Host\obj\Debug\Powershell_Host.exe
+C:\Users\HOESSERICHCH\Hirschvogel Holding GmbH\OneDrive - Hirschvogel Holding GmbH\Data\GPSUG_Sessions\PSLoveC#\Code\Powershell_Host\Powershell_Host\obj\Debug\Powershell_Host.pdb

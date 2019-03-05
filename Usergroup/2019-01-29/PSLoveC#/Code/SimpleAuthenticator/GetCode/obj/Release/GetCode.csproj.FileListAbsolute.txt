@@ -1,0 +1,12 @@
+C:\Users\HOESSERICHCH\Hirschvogel Holding GmbH\OneDrive - Hirschvogel Holding GmbH\Data\GPSUG_Sessions\PSLoveC#\Code\SimpleAuthenticator\GetCode\bin\Release\GetCode.exe.config
+C:\Users\HOESSERICHCH\Hirschvogel Holding GmbH\OneDrive - Hirschvogel Holding GmbH\Data\GPSUG_Sessions\PSLoveC#\Code\SimpleAuthenticator\GetCode\bin\Release\GetCode.exe
+C:\Users\HOESSERICHCH\Hirschvogel Holding GmbH\OneDrive - Hirschvogel Holding GmbH\Data\GPSUG_Sessions\PSLoveC#\Code\SimpleAuthenticator\GetCode\bin\Release\GetCode.pdb
+C:\Users\HOESSERICHCH\Hirschvogel Holding GmbH\OneDrive - Hirschvogel Holding GmbH\Data\GPSUG_Sessions\PSLoveC#\Code\SimpleAuthenticator\GetCode\bin\Release\SimpleAuthenticator.dll
+C:\Users\HOESSERICHCH\Hirschvogel Holding GmbH\OneDrive - Hirschvogel Holding GmbH\Data\GPSUG_Sessions\PSLoveC#\Code\SimpleAuthenticator\GetCode\bin\Release\SimpleAuthenticator.pdb
+C:\Users\HOESSERICHCH\Hirschvogel Holding GmbH\OneDrive - Hirschvogel Holding GmbH\Data\GPSUG_Sessions\PSLoveC#\Code\SimpleAuthenticator\GetCode\obj\Release\GetCode.csprojAssemblyReference.cache
+C:\Users\HOESSERICHCH\Hirschvogel Holding GmbH\OneDrive - Hirschvogel Holding GmbH\Data\GPSUG_Sessions\PSLoveC#\Code\SimpleAuthenticator\GetCode\obj\Release\Interop.AAC_WCCLib.dll
+C:\Users\HOESSERICHCH\Hirschvogel Holding GmbH\OneDrive - Hirschvogel Holding GmbH\Data\GPSUG_Sessions\PSLoveC#\Code\SimpleAuthenticator\GetCode\obj\Release\GetCode.csproj.ResolveComReference.cache
+C:\Users\HOESSERICHCH\Hirschvogel Holding GmbH\OneDrive - Hirschvogel Holding GmbH\Data\GPSUG_Sessions\PSLoveC#\Code\SimpleAuthenticator\GetCode\obj\Release\GetCode.csproj.CoreCompileInputs.cache
+C:\Users\HOESSERICHCH\Hirschvogel Holding GmbH\OneDrive - Hirschvogel Holding GmbH\Data\GPSUG_Sessions\PSLoveC#\Code\SimpleAuthenticator\GetCode\obj\Release\GetCode.csproj.CopyComplete
+C:\Users\HOESSERICHCH\Hirschvogel Holding GmbH\OneDrive - Hirschvogel Holding GmbH\Data\GPSUG_Sessions\PSLoveC#\Code\SimpleAuthenticator\GetCode\obj\Release\GetCode.exe
+C:\Users\HOESSERICHCH\Hirschvogel Holding GmbH\OneDrive - Hirschvogel Holding GmbH\Data\GPSUG_Sessions\PSLoveC#\Code\SimpleAuthenticator\GetCode\obj\Release\GetCode.pdb
