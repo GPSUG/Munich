@@ -1,0 +1,1 @@
+aka.ms/az.new
