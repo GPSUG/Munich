@@ -1,0 +1,9 @@
+{
+    "Name":"Christoph",
+    "Age": 30,
+    "Skills": [
+        "c#",
+        "SCCM",
+        "Powershell"
+    ]
+}
